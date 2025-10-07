@@ -1,0 +1,24 @@
+{
+  "id": "1234567890",
+  "source": "//storage.googleapis.com/projects/_/buckets/source-bucket",
+  "specversion": "1.0",
+  "type": "google.cloud.storage.object.v1.finalized",
+  "time": "2023-10-05T12:00:00.000Z",
+  "data": {
+    "bucket": "source-bucket",
+    "contentType": "text/plain",
+    "crc32c": "AAAAAA==",
+    "etag": "CNHZkbuF/80CEAE=",
+    "generation": "1696516800000000",
+    "id": "source-bucket/text/sample.txt/1696516800000000",
+    "kind": "storage#object",
+    "md5Hash": "1B2M2Y8AsgTpgAmY7PhCfg==",
+    "metageneration": "1",
+    "name": "text/sample.txt",
+    "selfLink": "https://www.googleapis.com/storage/v1/b/source-bucket/o/text/sample.txt",
+    "size": "1024",
+    "storageClass": "STANDARD",
+    "timeCreated": "2023-10-05T11:59:59.000Z",
+    "updated": "2023-10-05T12:00:00.000Z"
+  }
+}

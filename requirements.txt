@@ -1,0 +1,10 @@
+cloudevents
+google-cloud-storage
+mypy
+pydantic>=2
+pydantic-settings
+pytest
+pytest-cov
+ruff
+tenacity
+types-setuptools
